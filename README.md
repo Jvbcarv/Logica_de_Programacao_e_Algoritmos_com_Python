@@ -1,4 +1,4 @@
-Disciplina: Lógica de Programação e Algoritmos com Python.
+Disciplina: Lógica de Programação e Algoritmos com Python.  <br /> 
 [LISTA.DE.ATIVIDADES.PRATICAS.PYTHON.pdf](https://github.com/Jvbcarv/pythonProject/files/10017016/LISTA.DE.ATIVIDADES.PRATICAS.PYTHON.pdf)
 
 
